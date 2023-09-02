@@ -1,0 +1,107 @@
+body{
+    background-color:floralwhite;
+}
+
+.left-sidebar{
+    display: inline-block;
+    width: 24%;
+    height: 50%;
+    margin: 0px;
+    float: left;
+    
+}
+
+.pic{
+    display: inline-block;
+        
+}
+
+.pic img{
+    display: inline-block;
+    width: 80%;
+    height: 80%;
+
+}
+
+.nav_ul {
+    list-style: none;
+}
+
+.nav_ul li{
+    margin: 50 px;
+}
+
+
+.main_sections{
+    display: inline-block;
+    width: 75%;
+    margin: 0px;
+    
+}
+
+.header{
+    background-color: rgb(192, 241, 225);
+}
+
+.my_contacts{
+    display: inline-block;
+    float: right;
+    height: 30%;
+}
+
+.social_network{
+    display: inline-block;
+
+}
+
+.social_network a{
+    display: inline-block;
+
+}
+
+
+.phone{
+    display: inline-block;
+    
+}
+
+.page_name{
+    text-align: center;
+}
+
+.search_form{
+    display: inline-block;
+    float: right;
+}
+
+.content{
+    display: inline-block;
+    background-color: rgb(196, 245, 245);
+    width: 75%;
+    float: left;
+}
+
+.right_sidebar{
+    display: inline-block;
+    background-color: aqua;
+    width: 22%;
+    float: left;
+
+}
+
+.right_sidebar img{
+    display: inline-block;
+    width: 23%;
+    float:left;
+}
+
+.footer{
+    border: 1px solid darkslategray;
+    background-color: darkslategray;
+    color: aliceblue;
+
+}
+
+.footer p{
+    text-align: center;
+}
